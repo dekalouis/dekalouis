@@ -2,13 +2,13 @@
 <h3>An ex-BD turned AI Fullstack Dev / SWE (Sometimes FDE... I wear many hats.)</h3>
 
 # About:
-🔭 I’m currently working with [Sokratech](https://sokratech.io)</br>
-🌱 I’m currently learning more about **system design, AI development, and a few others.**</br>
-👯 I can help you with **your fullstack needs**</br>
-🤝 I’m currently working on **a few projects**</br>
-👨‍💻 All of my projects are available at [dekalouis.com](https://dekalouis.com)</br>
-📄 Know about my experiences [here](https://drive.google.com/file/d/1FO-DriP8GrmLyh8ye55cifOeMvMMWuxh/view?usp=sharing)</br>
-⚡ Fun fact **I have 11 cats even though I'm allergic to them.**</br>
+- I’m currently working with [Sokratech](https://sokratech.io)</br>
+- I’m currently learning more about **system design, Rust, and a few others.**</br>
+- I can help you with **your fullstack needs**</br>
+- I’m currently working on **a few projects**</br>
+- All of my projects are available at [dekalouis.com](https://dekalouis.com)</br>
+- Know about my experiences [here](https://drive.google.com/file/d/1FO-DriP8GrmLyh8ye55cifOeMvMMWuxh/view?usp=sharing)</br>
+- **I have 11 cats even though I'm allergic to them.**</br>
 
 
 
